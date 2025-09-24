@@ -1,0 +1,49 @@
+/* Reset some defaults */
+html, body {
+  height: 100%;
+  width: 100%;
+
+}
+
+body {
+  margin: 0;                 /* remove default white border */
+  background-color: rgb(170, 142, 197);
+}
+
+header {
+  color: black;
+  stroke: bisque;
+  font: 200;
+  font-style: italic;
+  
+}
+
+main {
+
+  color: brown;
+  font-size: larger;
+}
+
+footer {
+
+  color: chartreuse;
+  font-size: medium;
+}
+
+button {
+  color: #4d4d4d;
+  padding: 15px 40px;
+  background-color: antiquewhite;
+  font-family: monospace;
+  border-radius: 50px;
+  border: 2px solid rgb(206, 206, 206);
+  box-shadow: inset 4px 4px 10px #bcbcbc,
+   inset -4px -4px 10px #ffffff;
+}
+
+button:hover {
+background-color: aquamarine;
+box-shadow: inset 4px 4px 10px #942ea8,
+   inset -4px -4px 10px #000000;
+
+}

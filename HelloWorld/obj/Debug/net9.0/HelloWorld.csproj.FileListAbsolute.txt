@@ -22,8 +22,10 @@ C:\Users\Jacob\Desktop\RS\HelloWorld\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\Jacob\Desktop\RS\HelloWorld\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\Jacob\Desktop\RS\HelloWorld\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 C:\Users\Jacob\Desktop\RS\HelloWorld\obj\Debug\net9.0\scopedcss\bundle\HelloWorld.styles.css
-C:\Users\Jacob\Desktop\RS\HelloWorld\obj\Debug\net9.0\compressed\6w1iicjq7q-mf447zo27d.gz
 C:\Users\Jacob\Desktop\RS\HelloWorld\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Jacob\Desktop\RS\HelloWorld\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\Jacob\Desktop\RS\HelloWorld\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Jacob\Desktop\RS\HelloWorld\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Jacob\Desktop\Rs\HelloWorld\obj\Debug\net9.0\HelloWorld.sourcelink.json
+C:\Users\Jacob\Desktop\RS\HelloWorld\obj\Debug\net9.0\compressed\6w1iicjq7q-uislid39s7.gz
+C:\Users\Jacob\Desktop\RS\HelloWorld\obj\Debug\net9.0\compressed\jscqznkrtp-ze89p3obwc.gz

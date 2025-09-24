@@ -52,7 +52,7 @@ namespace myApp
 
             if (Lvl >= 430)
             {
-                scaledRaidLevel = 310 + ((430 + ((Lvl - 430) / 2) - 310) / 3);
+                scaledRaidLevel = 310 + ((HighScalar + ((Lvl - HighScalar) / 2) - 310) / 3);
                 double purpleChance = 10500 - (20 * scaledRaidLevel);
                 percentChance = Points / purpleChance;
                 Console.WriteLine("you raid level was: " + Lvl + Environment.NewLine +
